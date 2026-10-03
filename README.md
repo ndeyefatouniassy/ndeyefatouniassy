@@ -4,7 +4,6 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
     />
   </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
 </p>
 
 <p align="center">
