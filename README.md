@@ -1,13 +1,9 @@
-<table align="center"><tr>
-  <td valign="middle" align="right">
-    <a href="https://github.com/ndeyefatouniassy">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=70&width=620&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" />
-    </a>
-  </td>
-  <td valign="middle" align="left">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
-  </td>
-</tr></table>
+<p align="center">
+  <a href="https://github.com/ndeyefatouniassy">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=72&width=600&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" />
+  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=520&height=44&lines=A%20data%20scientist%20and%20AI%20engineer" alt="Typing headlines" />
@@ -104,12 +100,6 @@ I work across Data Analytics, Statistics, Machine Learning, Deep Learning, NLP, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ndeye-fatou-niassy-4615a4281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-### 📈 $\textcolor{#2EA043}{\textsf{Contributions}}$
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2EA043/ndeyefatouniassy" width="100%" alt="contribution calendar" />
 </p>
 
 ---
