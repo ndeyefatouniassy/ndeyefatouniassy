@@ -1,21 +1,25 @@
-<p align="center">
-  <a href="https://github.com/ndeyefatouniassy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" />
-  </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="waving hand" />
-</p>
+<table align="center"><tr>
+  <td valign="middle" align="right">
+    <a href="https://github.com/ndeyefatouniassy">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=70&width=620&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" />
+    </a>
+  </td>
+  <td valign="middle" align="left">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
+  </td>
+</tr></table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=520&height=44&lines=A%20data%20scientist%20and%20AI%20engineer" alt="Typing headlines" />
 </p>
 
-<h3>🚀 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FA8072&fontSize=30&fontAlign=50&fontAlignY=50&height=46&width=150&text=About%20Me" alt="About Me" /></h3>
+### 🚀 $\textcolor{#2EA043}{\textsf{About Me}}$
 
 I’m an Computer &amp; Telecommunications Engineer specialized in Data Science &amp; Artificial Intelligence, with a strong interest in the entire Data &amp; AI ecosystem.  
 I work across Data Analytics, Statistics, Machine Learning, Deep Learning, NLP, Generative AI, LLMs, AI Agents, Data Engineering, and Business Intelligence — from data preparation and exploration to modeling, intelligent systems, and deployment.  
 🔬 I enjoy tackling challenging problems involving large-scale data, predictive modeling, natural language, recommendation systems, and intelligent applications, with a focus on building solutions that are both technically sound and practically useful.
 
-<h3>🛠️ <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FA8072&fontSize=30&fontAlign=50&fontAlignY=50&height=46&width=180&text=Tech%20Stack" alt="Tech Stack" /></h3>
+### 🛠️ $\textcolor{#2EA043}{\textsf{Tech Stack}}$
 
 **Languages**
 
@@ -96,13 +100,13 @@ I work across Data Analytics, Statistics, Machine Learning, Deep Learning, NLP, 
   <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
 </p>
 
-<h3>🔗 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FA8072&fontSize=30&fontAlign=50&fontAlignY=50&height=46&width=270&text=Connect%20With%20Me" alt="Connect With Me" /></h3>
+### 🔗 $\textcolor{#2EA043}{\textsf{Connect With Me}}$
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ndeye-fatou-niassy-4615a4281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<h3>📈 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FA8072&fontSize=30&fontAlign=50&fontAlignY=50&height=46&width=230&text=Contributions" alt="Contributions" /></h3>
+### 📈 $\textcolor{#2EA043}{\textsf{Contributions}}$
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2EA043/ndeyefatouniassy" width="100%" alt="contribution calendar" />
