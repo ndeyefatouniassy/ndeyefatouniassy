@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://github.com/ndeyefatouniassy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=72&width=600&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=72&width=600&text=Hello!%20I'm%20Nd%C3%A8ye%20Fatou" alt="Hello! I&#39;m Ndèye Fatou" 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
+    />
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="46" alt="waving hand" />
 </p>
